@@ -1,0 +1,202 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Professional' Language: 'en' Physical Memory: 16126 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/rvogt/Documents/VR3/DeskFrom1999_v1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64822
+Successfully changed project path to: C:/Users/rvogt/Documents/VR3/DeskFrom1999_v1
+C:/Users/rvogt/Documents/VR3/DeskFrom1999_v1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rvogt/Documents/VR3/DeskFrom1999_v1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   
+    VRAM:     6023 MB
+    Driver:   27.21.14.6685
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56508
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002600 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.432 seconds
+Domain Reload Profiling:
+	ReloadAssembly (433ms)
+		BeginReloadAssembly (41ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (336ms)
+			LoadAssemblies (40ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (115ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (121ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (26ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (63ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005483 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Domain Reload Profiling:
+	ReloadAssembly (726ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (578ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (202ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (216ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (42ms)
+				ProcessInitializeOnLoadAttributes (156ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1932.
+Total: 2.022500 ms (FindLiveObjects: 0.118100 ms CreateObjectMapping: 0.026700 ms MarkObjects: 1.819700 ms  DeleteObjects: 0.056500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Desk/Table.prefab
+  artifactKey: Guid(51af04f1c02bc1c41b73ff5aedb15a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk/Table.prefab using Guid(51af04f1c02bc1c41b73ff5aedb15a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '429b030204de23a091ab52db5fa0af91') in 0.210738 seconds 
+  Import took 0.212847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Desk/Mouse.prefab
+  artifactKey: Guid(f61057f3949415749968e1e0b0f02eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk/Mouse.prefab using Guid(f61057f3949415749968e1e0b0f02eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef82de73fa6f5127eb6b9c90121ae5ba') in 0.007531 seconds 
+  Import took 0.009841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Desk/Keyboard.prefab
+  artifactKey: Guid(b868f519419f9294ebc64ac2babaae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk/Keyboard.prefab using Guid(b868f519419f9294ebc64ac2babaae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf4392641a33e67b86d2d2fadf4a641') in 0.009661 seconds 
+  Import took 0.012157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Desk/CD Holder.prefab
+  artifactKey: Guid(82ba47dd19fffc34eb2b627cb9182186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk/CD Holder.prefab using Guid(82ba47dd19fffc34eb2b627cb9182186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5beb6e74b3f4faf137d027dc0206bb91') in 0.007971 seconds 
+  Import took 0.010306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Desk/Computer Monitor.prefab
+  artifactKey: Guid(423fed54a7c08e3439c8905ab1ea46af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk/Computer Monitor.prefab using Guid(423fed54a7c08e3439c8905ab1ea46af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0c4fdc46ad1e431f883b6e0c52b249') in 0.007935 seconds 
+  Import took 0.010210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Desk/Tower.prefab
+  artifactKey: Guid(a03f22f1716c5f44cbe742f1ed07559f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk/Tower.prefab using Guid(a03f22f1716c5f44cbe742f1ed07559f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477ba62d4ffe0c5321d2141e34f81b5a') in 0.007971 seconds 
+  Import took 0.010205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Desk
+  artifactKey: Guid(e1f11b82a0875f144a1cd9458a627fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk using Guid(e1f11b82a0875f144a1cd9458a627fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9408b5947cf5998912a8f46d54773e02') in 0.001955 seconds 
+  Import took 0.004154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Desk/Phone.prefab
+  artifactKey: Guid(cdd27f0335dc79349b0a8af2a64d6277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desk/Phone.prefab using Guid(cdd27f0335dc79349b0a8af2a64d6277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33b84bd9d7a8039bab3fda5e37c1f78') in 0.007899 seconds 
+  Import took 0.010124 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
